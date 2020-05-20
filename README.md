@@ -1,13 +1,12 @@
 To install run:
 
-npm install
+- ```npm install```
 
 From the root of both the client and server directories.
 
-
 To run the application:
 
-npm start
+- ```npm start```
 
 From the root of both the server and the client.
 
